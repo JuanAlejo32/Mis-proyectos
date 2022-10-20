@@ -12,7 +12,7 @@ https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project1/index.html
 
 
 
-#Proyecto 2, Music App funcional
+# Proyecto 2, Music App funcional
 
 Creado en HTML & CSS, Javascript y Swiper.js
 
