@@ -25,7 +25,7 @@ Demo Creado en HTML,CSS y Javascript:
 
 https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project3JS/views/index.html
 
-Proyecto para descargar y ejecutar
+Proyecto para descargar y ejecutar:
 
 https://github.com/JuanAlejo32/Mis-proyectos/tree/main/project3
 
