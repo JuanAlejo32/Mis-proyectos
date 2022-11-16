@@ -256,8 +256,12 @@
   
   @media screen and (max-width: 579px) {
   
-    .title-input{
-      font-size: 1rem;
+    .title-input,#update-name{
+      font-size: 0.8rem;
+    }
+
+    .btn{
+      margin-bottom: 0.5rem;
     }
   
     .title-project{

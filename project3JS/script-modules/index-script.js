@@ -74,6 +74,15 @@ d.addEventListener('click',(e)=>{
         deleteUser(e)
         createTableDB()
     }
+
+    if (e.target.matches(".a-cancel")) {
+        d.querySelector(".table-user").classList.toggle("table-show")
+        setTimeout(() => {
+            d.querySelector(".table-user").style.display = "inline-table";
+            d.querySelector(".table-update").style.display = "none";       
+        }, 300);
+        d.querySelector(".table-update").classList.toggle("table-show")
+    }
 })
 
 
