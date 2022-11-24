@@ -35,7 +35,7 @@ npm i express express-session mysql2 dotenv bcryptjs
 
 Base de datos esta disponible dentro del proyecto, solo exportar
 
-# Proyecto 4, Login con Node.JS, Express, SON Web Tokens y Cookie Parser
+# Proyecto 4, Login con Node.JS, Express, JSON Web Tokens y Cookie Parser
 
 Demo Creado en HTML,CSS y Javascript:
 
