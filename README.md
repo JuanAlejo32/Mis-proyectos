@@ -34,3 +34,19 @@ Dependencias a instalar para su funcionamiento:
 npm i express express-session mysql2 dotenv bcryptjs 
 
 Base de datos esta disponible dentro del proyecto, solo exportar
+
+# Proyecto 4, Login con Node.JS, Express, JSON Web Tokens y Cookie Parser
+
+Demo Creado en HTML,CSS y Javascript:
+
+https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project4JS/views/index.html
+
+Proyecto para descargar y ejecutar:
+
+https://github.com/JuanAlejo32/Mis-proyectos/tree/main/project4
+
+Dependencias a instalar para su funcionamiento:
+
+ npm i express bcryptjs cookie-parser dotenv ejs jsonwebtoken mysql2
+
+Base de datos esta disponible dentro del proyecto, solo exportar
