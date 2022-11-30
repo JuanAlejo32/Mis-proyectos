@@ -58,6 +58,6 @@ Desafio:
 
 https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
 
-Desario realizado con HTML,CSS y Bootstrap :
+Desafio realizado con HTML,CSS y Bootstrap :
 
 https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project5/views/index.html
