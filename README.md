@@ -50,3 +50,14 @@ Dependencias a instalar para su funcionamiento:
  npm i express bcryptjs cookie-parser dotenv ejs jsonwebtoken mysql2
 
 Base de datos esta disponible dentro del proyecto, solo exportar
+
+
+# Proyecto 5, Desafio Frontend Mentor News homepage
+
+Desafio:
+
+https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
+
+Desario realizado con HTML,CSS y Bootstrap :
+
+https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project5/views/index.html
