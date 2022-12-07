@@ -61,3 +61,13 @@ https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
 Desafio realizado con HTML,CSS y Bootstrap :
 
 https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project5/views/index.html
+
+# Proyecto 6, Desafio Frontend Mentor REST Countries API with color theme switcher
+
+Desafio:
+
+https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca
+
+Desafio realizado con HTML,CSS y Bootstrap :
+
+https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project6/views/index.html
