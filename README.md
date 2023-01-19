@@ -2,9 +2,9 @@
 
 # Proyecto 1, Replica de una plantilla
 
-<img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1.jpg" alt="Project 1"  width="280px" height="500px">
+<img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1.jpg" alt="Project 1 Mobile"  width="280px" height="500px">
 
-<img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1-d.png" alt="Project 1"  width="280px" height="280px">
+<img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1-d.PNG" alt="Project 1 Desktop"  width="280px" height="280px">
 
 
 Plantilla Original:
