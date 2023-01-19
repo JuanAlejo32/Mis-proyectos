@@ -4,7 +4,7 @@
 
 <p float="left">
  <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1.jpg" alt="Project 1 Mobile"  width="280px" height="500px" style="margin: 2rem;">
- <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1-d.PNG" alt="Project 1 Desktop"  width="600px" height="500px">
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1-d.PNG" alt="Project 1 Desktop"  width="700px" height="500px">
 </p>
 
 Plantilla Original:
