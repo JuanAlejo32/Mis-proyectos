@@ -71,3 +71,13 @@ https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-swi
 Desafio realizado con HTML,CSS y Bootstrap :
 
 https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project6/views/index.html
+
+# Proyecto 7, Frontend Practice: Déplacé Maison
+
+Desafio:
+
+https://www.frontendpractice.com/projects/deplace-maison
+
+Desafio realizado con HTML,CSS y Bootstrap :
+
+https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project7/views/index.html
