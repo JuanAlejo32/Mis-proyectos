@@ -2,7 +2,6 @@
 
 # Proyecto 1, Replica de una plantilla
 
-https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1.PNG
 
 Plantilla Original:
 
