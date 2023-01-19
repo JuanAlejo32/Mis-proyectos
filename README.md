@@ -75,7 +75,7 @@ https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project6/views/index.
 
 # Proyecto 7, Frontend Practice: Déplacé Maison
 
-![Project 7]([/path/to/img.jpg](https://juanalejo32.github.io/Mi-pagina-web-cv/CV/img/project8.jpg))
+![Alt text]([/path/to/img.jpg](https://juanalejo32.github.io/Mi-pagina-web-cv/CV/img/project8.jpg))
 
 
 Desafio:
