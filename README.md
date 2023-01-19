@@ -112,6 +112,6 @@ Desafio:
 
 https://www.frontendpractice.com/projects/deplace-maison
 
-Desafio realizado con HTML,CSS y Bootstrap :
+Desafio realizado con HTML,CSS,Javascript, Swiper.js, ScrollMagic y Bootstrap :
 
 https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project7/views/index.html
