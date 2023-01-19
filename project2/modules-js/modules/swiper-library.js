@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", (e) => {
       grabCursor: true,
       loop:true,
       autoplay: {
-        delay: 5000,
+        delay: 1000,
       }
         
     });
