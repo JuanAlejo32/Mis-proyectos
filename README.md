@@ -75,7 +75,7 @@ https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project6/views/index.
 
 # Proyecto 7, Frontend Practice: Déplacé Maison
 
-<img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1.jpg" alt="Project 7"  width="200px" height="600px">
+<img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1.jpg" alt="Project 7"  width="200px" height="500px">
 
 Desafio:
 
