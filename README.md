@@ -2,6 +2,11 @@
 
 # Proyecto 1, Replica de una plantilla
 
+
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1.jpg" alt="Project 1 Mobile"  width="280px" height="500px" style="margin: 2rem;">
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project1-d.PNG" alt="Project 1 Desktop">
+
+
 Plantilla Original:
 
 https://www.elegantthemes.com/layouts/services/cryptocurrency-landing-page/live-demo
@@ -11,8 +16,12 @@ Mi replica con HTML & CSS, Javascript y Bootstrap :
 https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project1/index.html
 
 
-
 # Proyecto 2, Music App funcional
+
+
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project2.jpg" alt="Project 2 Mobile"  width="280px" height="500px" style="margin: 2rem;">
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project2-d.PNG" alt="Project 2 Desktop" >
+
 
 Creado en HTML & CSS, Javascript y Swiper.js :
 
@@ -20,6 +29,11 @@ https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project2/index.html
 
 
 # Proyecto 3, Login con Node.JS, Express y EXpress-Session
+
+
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project4.jpg" alt="Project 4 Mobile"  width="280px" height="500px" style="margin: 2rem;">
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project4-d.PNG" alt="Project 4 Desktop" >
+
 
 Demo Creado en HTML,CSS y Javascript:
 
@@ -36,6 +50,11 @@ npm i express express-session mysql2 dotenv bcryptjs
 Base de datos esta disponible dentro del proyecto, solo exportar
 
 # Proyecto 4, Login con Node.JS, Express, JSON Web Tokens y Cookie Parser
+
+
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project5.jpg" alt="Project 5 Mobile"  width="280px" height="500px" style="margin: 2rem;">
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project5-d.PNG" alt="Project 5 Desktop">
+
 
 Demo Creado en HTML,CSS y Javascript:
 
@@ -54,6 +73,11 @@ Base de datos esta disponible dentro del proyecto, solo exportar
 
 # Proyecto 5, Desafio Frontend Mentor News homepage
 
+
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project6.jpg" alt="Project 6 Mobile"  width="280px" height="500px" style="margin: 2rem;">
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project6-d.PNG" alt="Project 6 Desktop">
+
+
 Desafio:
 
 https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
@@ -64,6 +88,11 @@ https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project5/views/index.
 
 # Proyecto 6, Desafio Frontend Mentor REST Countries API with color theme switcher
 
+
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project7.jpg" alt="Project 7 Mobile"  width="280px" height="500px" style="margin: 2rem;">
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project7-d.PNG" alt="Project 7 Desktop">
+
+
 Desafio:
 
 https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca
@@ -71,3 +100,18 @@ https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-swi
 Desafio realizado con HTML,CSS y Bootstrap :
 
 https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project6/views/index.html
+
+# Proyecto 7, Frontend Practice: Déplacé Maison
+
+
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project8.jpg" alt="Project 8 Mobile"  width="280px" height="500px" style="margin: 2rem;">
+ <img src="https://raw.githubusercontent.com/JuanAlejo32/Mi-pagina-web-cv/gh-pages/CV/img/project8-d.PNG" alt="Project 8 Desktop">
+
+
+Desafio:
+
+https://www.frontendpractice.com/projects/deplace-maison
+
+Desafio realizado con HTML,CSS,Javascript, Swiper.js, ScrollMagic y Bootstrap :
+
+https://juanalejo32.github.io/Mi-pagina-web-cv/CV/projects/project7/views/index.html
