@@ -236,9 +236,7 @@ document.addEventListener("click", e =>{
         }
 
         if (e.target.matches(".card-a-body")) {
-          loadArtiststrack(
-            e.target.parentNode.querySelector(".card-artists-name").dataset
-              .id_artists
+          loadArtiststrack(e.target.parentNode.querySelector(".card-artists-name").dataset.id_artists
           );
           templateNameimgartists(e.target.parentNode.querySelector(".card-artists-name").innerText,e.target.parentNode.querySelector("img").src);         
         }
