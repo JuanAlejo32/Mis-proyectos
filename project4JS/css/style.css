@@ -136,7 +136,8 @@
     }
 
     .register-section{
-      transform: translateY(1000%);
+      top: 0;
+      transform: translateY(90vh);
     }
 
     .form-template{
